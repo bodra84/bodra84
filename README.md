@@ -1,5 +1,5 @@
-### 👋Привет! Меня зовут Давлат. Я python-разработчик.
-## Мои hard skills:
+## 👋Привет! Меня зовут Давлат. Я python-разработчик.
+### Мои hard skills:
 - Python
 - Django
 - Django REST framework
@@ -12,6 +12,6 @@
 - Nginx
 - Gunicorn
 - Docker
-## Мои контакты
+### Мои контакты
 * Telegram: @Davlat Faiziev
 * e-mail: bodra84@gmail.com
