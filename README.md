@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет👋! Меня зовут Давлат. Я python-разработчик.
 
 <!--
 **bodra84/bodra84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
