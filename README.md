@@ -1,5 +1,5 @@
 ### 👋Привет! Меня зовут Давлат. Я python-разработчик.
-## Изучаю технологии
+## Мои hard-skills:
 - Python
 - Django
 - Django REST framework
@@ -13,4 +13,5 @@
 - Gunicorn
 - Docker
 ## Мои контакты
-Telegram - @D
+Telegram: @Davlat Faiziev
+e-mail: bodra84@gmail.com
