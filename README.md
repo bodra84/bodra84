@@ -3,10 +3,10 @@
 ### Hard skills:
 - Python
 - Django / Django REST framework / REST API
-- Git / Docker
-- Gunicorn / Nginx
 - SQL / SQlite / PostgreSQL
 - Pytest / Unittest
+- Gunicorn / Nginx
+- Git / Docker
 
 ### Мои контакты:
 * Telegram: @Davlat Faiziev
