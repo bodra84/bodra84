@@ -4,8 +4,8 @@
 - Python
 - Django / Django REST framework / REST API
 - SQL / SQlite / PostgreSQL
-- Pytest / Unittest
 - Gunicorn / Nginx
+- Pytest / Unittest
 - Git / Docker
 
 ### Мои контакты:
